@@ -20,6 +20,6 @@ hello world
 <!--this is striking-->
 
 <a href="https://www.google.com/search?q=google&oq=goog&aqs=chrome.2.69i60j69i59j0j69i57j35i39j69i60l3.3443j0j4&sourceid=chrome&ie=UTF-8" target="__blank"> click me</a>
-<!--this is link reference-->
+<!--this is link reference this target is blank means that our opening file is opening on the next tab with out that our link will be opened on the same page itself-->
 </body>
 </html>
